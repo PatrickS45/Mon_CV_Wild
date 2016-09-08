@@ -1,4 +1,18 @@
 body {
-background-color : rgb(104, 187, 285)
+    background-color : rgb(104, 187, 285);
 }
 
+#left-box {
+    background-color:  : rgb(9,30,45);
+    color : white;
+    float : left;
+}
+
+#photocv {
+    height: 200px;
+    width: 150px;
+}
+
+.info {
+    list-style-type: square;
+}
