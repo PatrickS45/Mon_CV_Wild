@@ -16,3 +16,7 @@ body {
 .info {
     list-style-type: square;
 }
+
+#experiences-box {
+    background-color: white;   
+}
